@@ -45,10 +45,6 @@ cd backend
 # Install dependencies
 npm install
 
-# Configure environment variables
-# Edit .env file with your PostgreSQL connection string
-# Default: DATABASE_URL=postgresql://postgres:@localhost:5432/issue_tracker
-
 # Start the server
 npm run dev
 # Server runs on http://localhost:5000
