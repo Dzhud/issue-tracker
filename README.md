@@ -180,3 +180,5 @@ npm run preview        # Preview production build
 - Webhooks for integrations
 - Bulk operations
 - Export to CSV/PDF
+
+![App screenshot](SS.png)
