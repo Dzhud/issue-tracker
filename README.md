@@ -178,6 +178,7 @@ npm run preview        # Preview production build
 - Authentication and authorization
 - User assignment to issues
 - Comments/discussions on issues
+- View navigation
 - Issue labels and categories
 - Activity history/audit log
 - Webhooks for integrations
