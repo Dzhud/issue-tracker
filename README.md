@@ -169,6 +169,11 @@ npm run preview        # Preview production build
 - Form validation happens on both frontend and backend
 - Sensitive operations (delete) require confirmation
 
+## Design decision & trade-offs
+
+- Database: PostgreSQL — reliable relational features and indexing.
+Tradeoff: heavier local setup than SQLite; use migrations for repeatable schema changes instead of committing dumps.
+
 ## Future Enhancements
 
 - Authentication and authorization
